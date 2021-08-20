@@ -1,5 +1,5 @@
 
-### 基于Django=1.1 和 xadmin=0.6 的一个博客系统
+### 基于Django=1.1 和 Bootstrap 的一个博客系统
 
 
 创建一个环境
